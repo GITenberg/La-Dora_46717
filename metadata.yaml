@@ -1,10 +1,16 @@
 _repo: La-Dora_46717
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46717-h/images/cover.jpg
 creator:
   author:
     agent_name: Regaldi, Giuseppe
     gutenberg_agent_id: '43920'
     url: http://www.gutenberg.org/2009/agents/43920
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46717#La-Dora
 gutenberg_bookshelf: IT Geografia
 gutenberg_issued: '2014-08-28'
 gutenberg_type: Text
